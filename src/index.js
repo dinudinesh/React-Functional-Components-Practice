@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-
+//MyInfo: Use 1st letter capital of function name, its strong convention in React. 
 function MyInfo() {
   return (
     <div>
